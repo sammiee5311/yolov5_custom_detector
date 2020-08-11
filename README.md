@@ -3,9 +3,9 @@ yolov5_custom_detector
 Make custom dataset thru google colab
 
 # How to do
-Download any dataset from [roboflow](https://public.roboflow.ai/object-detection)
-Open yolov5_custom_detector.ipynb
-Run the cells
++ Download any dataset from [roboflow](https://public.roboflow.ai/object-detection)
++ Open yolov5_custom_detector.ipynb
++ Run the cells
 
 tested by safty helmet dataset
 ===
