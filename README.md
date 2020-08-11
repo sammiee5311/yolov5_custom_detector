@@ -7,7 +7,7 @@ yolov5_custom_detector
 + Open yolov5_custom_detector.ipynb
 + Run the cells
 
-## Tested by safty helmet dataset
+## Tested by safety helmet dataset
 ### Result
 ![](./img/results.png)
 ### Metrics
@@ -16,7 +16,7 @@ yolov5_custom_detector
 ![](./img/train_loss.png)
 ### Test_image
 ![](./img/test.jpg)
-### [Download pre-trained safty helmet dataset](https://github.com/sammiee5311/yolov5_custom_detector/raw/master/best_helmet_yolov5s.pt)
+### [Download pre-trained safety helmet dataset](https://github.com/sammiee5311/yolov5_custom_detector/raw/master/best_helmet_yolov5s.pt)
 
 
 ### Reference 
