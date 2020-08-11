@@ -7,17 +7,19 @@ yolov5_custom_detector
 + Open yolov5_custom_detector.ipynb
 + Run the cells
 
-## tested by safty helmet dataset
-### result
+## Tested by safty helmet dataset
+### Result
 ![](./img/results.png)
-### metrics
+### Metrics
 ![](./img/metrics.png)
-### train_loss
+### Train_loss
 ![](./img/train_loss.png)
-### test_image
+### Test_image
 ![](./img/test.jpg)
+### [Download pre-trained dataset](https://github.com/sammiee5311/yolov5_custom_detector/raw/master/best_helmet_yolov5s.pt)
 
-### reference 
+
+### Reference 
 + https://youtu.be/T0DO1C8uYP8
 + https://public.roboflow.ai/object-detection
 + https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb#scrollTo=WwosXmgDahte
